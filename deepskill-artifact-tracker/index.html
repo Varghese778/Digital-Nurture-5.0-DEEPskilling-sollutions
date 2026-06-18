@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Digital Nurture 5.0 Accelerated Sprint Tracker — 33-day Java FSE Deepskilling journey.">
+    <title>Digital Nurture 5.0 | Accelerated Tracker</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- ═══ Top Bar ═══ -->
+    <header class="top-bar">
+        <div class="top-left">
+            <h1 class="logo-text">Digital Nurture <span>5.0</span></h1>
+            <div class="badge sprint">Accelerated Sprint</div>
+        </div>
+        <div class="top-right">
+            <div class="badge deadline"><i class="fa-solid fa-flag-checkered"></i> Deadline: <strong>20 Jul 2026</strong></div>
+            <div class="top-divider"></div>
+            <button onclick="openHandbook()" class="top-btn" id="btn-handbook"><i class="fa-solid fa-book"></i> Handbook</button>
+            <button onclick="openExcelTracker()" class="top-btn green" id="btn-excel"><i class="fa-solid fa-table"></i> Excel Tracker</button>
+        </div>
+    </header>
+
+    <!-- ═══ Progress ═══ -->
+    <div class="progress-strip">
+        <div class="progress-inner">
+            <span class="prog-label"><i class="fa-solid fa-chart-line"></i> <span id="progress-percent">0%</span></span>
+            <div class="prog-track"><div class="prog-fill" id="progress-fill"></div></div>
+            <span class="prog-stat green"><i class="fa-solid fa-circle-check"></i> <span id="stat-completed">0</span> done</span>
+            <span class="prog-stat orange"><i class="fa-solid fa-hourglass-half"></i> <span id="stat-remaining">0</span> left</span>
+        </div>
+    </div>
+
+    <!-- ═══ Main Layout ═══ -->
+    <div class="app-layout">
+        <main class="main-scroll custom-scrollbar">
+
+            <!-- Phase Tabs -->
+            <nav class="tab-bar">
+                <button onclick="switchTab('phase1')" id="tab-phase1" class="tab active" data-color="blue">
+                    <i class="fa-solid fa-cube"></i> Phase 1
+                </button>
+                <button onclick="switchTab('phase2')" id="tab-phase2" class="tab" data-color="purple">
+                    <i class="fa-solid fa-leaf"></i> Phase 2
+                </button>
+                <button onclick="switchTab('phase3')" id="tab-phase3" class="tab" data-color="cyan">
+                    <i class="fa-brands fa-react"></i> Phase 3
+                </button>
+                <button onclick="switchTab('phase4')" id="tab-phase4" class="tab" data-color="orange">
+                    <i class="fa-solid fa-rocket"></i> Phase 4
+                </button>
+            </nav>
+
+            <!-- Timeline Content -->
+            <div id="bento-content"></div>
+
+        </main>
+
+        <!-- Viewer Panel (PDF only) -->
+        <aside id="viewer-panel" class="viewer-panel">
+            <div class="viewer-bar">
+                <span id="viewer-title" class="viewer-title"></span>
+                <button onclick="closeViewer()" class="viewer-x" id="btn-close-viewer"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="viewer-body">
+                <iframe id="viewer-frame" src=""></iframe>
+            </div>
+        </aside>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
