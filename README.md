@@ -1,4 +1,4 @@
-# 📚 Digital Nurture 5.0 — Java FSE DEEPskilling Solutions
+# Digital Nurture 5.0 — Java FSE DEEPskilling Solutions
 
 Hands-on training and practice solutions for the **Cognizant Digital Nurture 5.0** program, Java Full-Stack Engineering (FSE) track.
 
@@ -6,7 +6,7 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── Java FSE/                          # Exercise question papers & reference material
@@ -38,7 +38,7 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 
 ---
 
-## 📅 Weekly Curriculum Breakdown
+## Weekly Curriculum Breakdown
 
 ### Week 1 — Foundations ✅
 | Topic | Status |
@@ -53,7 +53,7 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 ### Week 2 — Spring Core & Data Access 🔲
 | Topic | Status |
 |-------|--------|
-| Spring Core & Maven | 🔲 Pending |
+| Spring Core & Maven | ✅ Completed |
 | Spring Data JPA with Hibernate | 🔲 Pending |
 
 ### Week 3 — Spring REST & Security 🔲
@@ -85,46 +85,3 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 | Git Hands-on Labs | 🔲 Pending |
 
 ---
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|-------------|
-| **Backend** | Java, Spring Boot 3, Spring Core, Spring Data JPA, Hibernate |
-| **Frontend** | React, Angular, HTML5, CSS3, Bootstrap 5, JavaScript |
-| **Database** | MySQL, PL/SQL |
-| **Testing** | JUnit, Mockito, SL4J |
-| **Architecture** | Microservices, REST APIs, API Gateway, Load Balancing |
-| **Security** | JWT Authentication |
-| **Tools** | Git, Maven |
-
----
-
-## 🚀 Getting Started
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Varghese778/Digital-Nurture-5.0-DEEPskilling-sollutions.git
-   ```
-
-2. **Browse exercise papers** — Navigate to `Java FSE/` for question papers organized by topic.
-
-3. **View solutions** — Navigate to `Deepskilling_Hands-on_Sollutions/` for week-wise completed solutions.
-
----
-
-## 📌 Notes
-
-- The `Java FSE/` folder contains the original exercise/question documents provided by the program.
-- The `Deepskilling_Hands-on_Sollutions/` folder contains my solutions, organized by week.
-- Solutions are being added progressively as each week's exercises are completed.
-
----
-
-## 📝 License
-
-This repository is for educational and personal learning purposes as part of the Cognizant Digital Nurture 5.0 program.
-
----
-
-> ⭐ *Star this repo if you find it helpful!*
