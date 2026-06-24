@@ -28,8 +28,8 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 │
 └── Deepskilling_Hands-on_Sollutions/  # ✅ Weekly hands-on solutions
     ├── Week_1/                        # Completed ✅
-    ├── Week_2/                        # 🔲 In progress
-    ├── Week_3/                        # 🔲 In progress
+    ├── Week_2/                        # Completed ✅
+    ├── Week_3/                        # Completed ✅
     ├── Week_4/                        # 🔲 In progress
     ├── Week_5/                        # 🔲 In progress
     ├── Week_6/                        # 🔲 In progress
@@ -50,17 +50,17 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 | SL4J Logging | ✅ Completed |
 | PL/SQL Programming | ✅ Completed |
 
-### Week 2 — Spring Core & Data Access 🔲
+### Week 2 — Spring Core & Data Access ✅ 
 | Topic | Status |
 |-------|--------|
 | Spring Core & Maven | ✅ Completed |
-| Spring Data JPA with Hibernate | 🔲 Pending |
+| Spring Data JPA with Hibernate | ✅ Completed|
 
-### Week 3 — Spring REST & Security 🔲
+### Week 3 — Spring REST & Security ✅ 
 | Topic | Status |
 |-------|--------|
-| Spring REST using Spring Boot | 🔲 Pending |
-| JWT Authentication | 🔲 Pending |
+| Spring REST using Spring Boot | ✅ Completed |
+| JWT Authentication | ✅ Completed |
 
 ### Week 4 — Microservices 🔲
 | Topic | Status |
