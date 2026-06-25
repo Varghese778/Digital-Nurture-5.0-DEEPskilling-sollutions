@@ -30,7 +30,7 @@ This repository contains exercise question papers, weekly hands-on solutions, an
     ├── Week_1/                        # Completed ✅
     ├── Week_2/                        # Completed ✅
     ├── Week_3/                        # Completed ✅
-    ├── Week_4/                        # 🔲 In progress
+    ├── Week_4/                        # Completed ✅
     ├── Week_5/                        # 🔲 In progress
     ├── Week_6/                        # 🔲 In progress
     └── Week_7/                        # 🔲 In progress
@@ -62,11 +62,11 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 | Spring REST using Spring Boot | ✅ Completed |
 | JWT Authentication | ✅ Completed |
 
-### Week 4 — Microservices 🔲
+### Week 4 — Microservices ✅
 | Topic | Status |
 |-------|--------|
-| Microservices using Spring Boot 3 | 🔲 Pending |
-| API Gateway | 🔲 Pending |
+| Microservices using Spring Boot 3 | ✅ Completed |
+| API Gateway | ✅ Completed |
 
 ### Week 5 — Frontend (React) 🔲
 | Topic | Status |
