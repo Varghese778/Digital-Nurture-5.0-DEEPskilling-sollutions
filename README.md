@@ -67,7 +67,6 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 |-------|--------|
 | Microservices using Spring Boot 3 | 🔲 Pending |
 | API Gateway | 🔲 Pending |
-| Load Balancing | 🔲 Pending |
 
 ### Week 5 — Frontend (React) 🔲
 | Topic | Status |
