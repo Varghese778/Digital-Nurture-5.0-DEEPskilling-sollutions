@@ -71,7 +71,8 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 ### Week 5 — Frontend (React) 🔲
 | Topic | Status |
 |-------|--------|
-| ReactJS Hands-on Labs | 🔲 Pending |
+| ReactJS Hands-on Labs 1-5 | ✅ Completed |
+| ReactJS Hands-on Labs 9-13 | 🔲 Pending |
 
 ### Week 6 — Frontend (Angular) 🔲
 | Topic | Status |
@@ -81,6 +82,6 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 ### Week 7 — Git & DevOps 🔲
 | Topic | Status |
 |-------|--------|
-| Git Hands-on Labs | 🔲 Pending |
+| Git Hands-on Labs 1-5 | 🔲 Pending |
 
 ---
