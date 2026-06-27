@@ -8,80 +8,83 @@ This repository contains exercise question papers, weekly hands-on solutions, an
 
 ## Repository Structure
 
+The project is structured into curriculum resource directories, weekly solutions, and helper tools:
+
 ```
-├── Java FSE/                          # Exercise question papers & reference material
-│   ├── Deepskilling/                  # DEEPskilling track exercises
-│   │   ├── Engineering concepts/      # Algorithms, Data Structures, Design Patterns
-│   │   ├── GIT/                       # Git Hands-on Labs (5 exercises)
-│   │   ├── JUnit, Mockito and SL4J/   # Unit testing & logging exercises
-│   │   ├── Spring Core and Maven/     # Spring Core & Maven exercises
-│   │   ├── Spring Data JPA with Hibernate/  # JPA & Hibernate hands-on
-│   │   ├── Spring REST using Spring Boot/   # REST API & JWT exercises
-│   │   ├── Microservices/             # Microservices & API Gateway exercises
-│   │   ├── React/                     # ReactJS Hands-on Labs (19 exercises)
-│   │   ├── Angular/                   # Angular hands-on
-│   │   └── PL SQL programming/        # PL/SQL exercises
-│   └── Upskilling/                    # Upskilling track modules
-│       ├── Module 1 — HTML5, CSS3, Bootstrap5, JavaScript
-│       ├── Module 2 — ANSI SQL Using MySQL
-│       └── Module 3 — Core Java
+├── Java FSE/                          
+│   ├── Deepskilling/                  
+│   │   ├── Engineering concepts/      
+│   │   ├── GIT/                       
+│   │   ├── JUnit, Mockito and SL4J/   
+│   │   ├── Spring Core and Maven/     
+│   │   ├── Spring Data JPA with Hibernate/  
+│   │   ├── Spring REST using Spring Boot/   
+│   │   ├── Microservices/             
+│   │   ├── React/                     
+│   │   ├── Angular/                   
+│   │   └── PL SQL programming/        
+│   └── Upskilling/                    
+│       ├── Module 1-Bootstrap5.pdf
+│       ├── Module 1-CSS3.pdf
+│       ├── Module 1-HTML 5.pdf
+│       ├── Module 1-JavaScript.pdf
+│       ├── Module 2-ANSI SQL Using MySQL.pdf
+│       └── Module 3-Core Java.pdf
 │
-└── Deepskilling_Hands-on_Sollutions/  # ✅ Weekly hands-on solutions
-    ├── Week_1/                        # Completed ✅
-    ├── Week_2/                        # Completed ✅
-    ├── Week_3/                        # Completed ✅
-    ├── Week_4/                        # Completed ✅
-    ├── Week_5/                        # 🔲 In progress
-    ├── Week_6/                        # 🔲 In progress
-    └── Week_7/                        # 🔲 In progress
+└── Deepskilling_Hands-on_Sollutions/   
+    ├── Week_1/                        
+    ├── Week_2/                        
+    ├── Week_3/                        
+    ├── Week_4/                        
+    ├── Week_5/                        
+    ├── Week_6/                        
+    └── Week_7/                        
 ```
 
----
+## Curriculum & Progress Details
 
-## Weekly Curriculum Breakdown
+### Week 1 — Foundations 
+| Topic | Status | Solutions Location |
+|-------|--------|---------------------|
+| Algorithms & Data Structures | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
+| Design Patterns & Principles | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
+| JUnit Basic Testing | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
+| Mockito Exercises | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
+| SL4J Logging | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
+| PL/SQL Programming | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
 
-### Week 1 — Foundations ✅
-| Topic | Status |
-|-------|--------|
-| Algorithms & Data Structures | ✅ Completed |
-| Design Patterns & Principles | ✅ Completed |
-| JUnit Basic Testing | ✅ Completed |
-| Mockito Exercises | ✅ Completed |
-| SL4J Logging | ✅ Completed |
-| PL/SQL Programming | ✅ Completed |
+### Week 2 — Spring Core & Data Access 
+| Topic | Status | Solutions Location |
+|-------|--------|---------------------|
+| Spring Core & Maven | ✅ Completed | [Week_2 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_2/) |
+| Spring Data JPA with Hibernate | ✅ Completed | [Week_2 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_2/) |
 
-### Week 2 — Spring Core & Data Access ✅ 
-| Topic | Status |
-|-------|--------|
-| Spring Core & Maven | ✅ Completed |
-| Spring Data JPA with Hibernate | ✅ Completed|
+### Week 3 — Spring REST & Security 
+| Topic | Status | Solutions Location |
+|-------|--------|---------------------|
+| Spring REST using Spring Boot | ✅ Completed | [Week_3 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_3/) |
+| JWT Authentication | ✅ Completed | [Week_3 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_3/) |
 
-### Week 3 — Spring REST & Security ✅ 
-| Topic | Status |
-|-------|--------|
-| Spring REST using Spring Boot | ✅ Completed |
-| JWT Authentication | ✅ Completed |
+### Week 4 — Microservices 
+| Topic | Status | Solutions Location |
+|-------|--------|---------------------|
+| Microservices using Spring Boot 3 | ✅ Completed | [Week_4 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_4/) |
+| API Gateway | ✅ Completed | [Week_4 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_4/) |
 
-### Week 4 — Microservices ✅
-| Topic | Status |
-|-------|--------|
-| Microservices using Spring Boot 3 | ✅ Completed |
-| API Gateway | ✅ Completed |
+### Week 5 — Frontend (React) 
+| Topic | Status | Solutions Location / Detail |
+|-------|--------|-----------------------------|
+| ReactJS Hands-on Labs 1-5 | ✅ Completed | [Week_5 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_5/) |
+| ReactJS Hands-on Labs 9-13 | ✅ Completed | [Week_5 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_5/) |
 
-### Week 5 — Frontend (React) 🔲
-| Topic | Status |
-|-------|--------|
-| ReactJS Hands-on Labs 1-5 | ✅ Completed |
-| ReactJS Hands-on Labs 9-13 | 🔲 Pending |
 
 ### Week 6 — Frontend (Angular) 🔲
-| Topic | Status |
-|-------|--------|
-| Angular Hands-on | 🔲 Pending |
+| Topic | Status | Solutions Location / Detail |
+|-------|--------|-----------------------------|
+| Angular Hands-on | 🔲 Pending | - |
 
 ### Week 7 — Git & DevOps 🔲
-| Topic | Status |
-|-------|--------|
-| Git Hands-on Labs 1-5 | 🔲 Pending |
+| Topic | Status | Solutions Location / Detail |
+|-------|--------|-----------------------------|
+| Git Hands-on Labs 1-5 | 🔲 Pending | - |
 
----
