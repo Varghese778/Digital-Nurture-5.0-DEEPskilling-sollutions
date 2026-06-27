@@ -46,36 +46,36 @@ The project is structured into curriculum resource directories, weekly solutions
 ### Week 1 — Foundations 
 | Topic | Status | Solutions Location |
 |-------|--------|---------------------|
-| Algorithms & Data Structures | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
-| Design Patterns & Principles | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
-| JUnit Basic Testing | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
-| Mockito Exercises | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
-| SL4J Logging | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
-| PL/SQL Programming | ✅ Completed | [Week_1 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_1/) |
+| Algorithms & Data Structures | ✅ Completed | [Week_1 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_1/) |
+| Design Patterns & Principles | ✅ Completed | [Week_1 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_1/) |
+| JUnit Basic Testing | ✅ Completed | [Week_1 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_1/) |
+| Mockito Exercises | ✅ Completed | [Week_1 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_1/) |
+| SL4J Logging | ✅ Completed | [Week_1 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_1/) |
+| PL/SQL Programming | ✅ Completed | [Week_1 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_1/) |
 
 ### Week 2 — Spring Core & Data Access 
 | Topic | Status | Solutions Location |
 |-------|--------|---------------------|
-| Spring Core & Maven | ✅ Completed | [Week_2 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_2/) |
-| Spring Data JPA with Hibernate | ✅ Completed | [Week_2 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_2/) |
+| Spring Core & Maven | ✅ Completed | [Week_2 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_2/) |
+| Spring Data JPA with Hibernate | ✅ Completed | [Week_2 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_2/) |
 
 ### Week 3 — Spring REST & Security 
 | Topic | Status | Solutions Location |
 |-------|--------|---------------------|
-| Spring REST using Spring Boot | ✅ Completed | [Week_3 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_3/) |
-| JWT Authentication | ✅ Completed | [Week_3 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_3/) |
+| Spring REST using Spring Boot | ✅ Completed | [Week_3 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_3/) |
+| JWT Authentication | ✅ Completed | [Week_3 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_3/) |
 
 ### Week 4 — Microservices 
 | Topic | Status | Solutions Location |
 |-------|--------|---------------------|
-| Microservices using Spring Boot 3 | ✅ Completed | [Week_4 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_4/) |
-| API Gateway | ✅ Completed | [Week_4 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_4/) |
+| Microservices using Spring Boot 3 | ✅ Completed | [Week_4 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_4/) |
+| API Gateway | ✅ Completed | [Week_4 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_4/) |
 
 ### Week 5 — Frontend (React) 
 | Topic | Status | Solutions Location / Detail |
 |-------|--------|-----------------------------|
-| ReactJS Hands-on Labs 1-5 | ✅ Completed | [Week_5 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_5/) |
-| ReactJS Hands-on Labs 9-13 | ✅ Completed | [Week_5 Solutions Folder](file:///c:/Users/shari/OneDrive/Desktop/Digital-Nurture-JavaFSE-main/Deepskilling_Hands-on_Sollutions/Week_5/) |
+| ReactJS Hands-on Labs 1-5 | ✅ Completed | [Week_5 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_5/) |
+| ReactJS Hands-on Labs 9-13 | ✅ Completed | [Week_5 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_5/) |
 
 
 ### Week 6 — Frontend (Angular) 🔲
