@@ -83,8 +83,8 @@ The project is structured into curriculum resource directories, weekly solutions
 |-------|--------|-----------------------------|
 | Angular Hands-on | 🔲 Pending | - |
 
-### Week 7 — Git & DevOps 🔲
+### Week 7 — Git & DevOps ✅ 
 | Topic | Status | Solutions Location / Detail |
 |-------|--------|-----------------------------|
-| Git Hands-on Labs 1-5 | 🔲 Pending | - |
+| Git Hands-on Labs 1-5 | ✅ Completed | [Week_7 Solutions Folder](./Deepskilling_Hands-on_Sollutions/Week_7/) |
 
